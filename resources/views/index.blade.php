@@ -56,7 +56,7 @@
     <body class="antialiased">
         <div class="container">
             <div class="row">
-                <form action="http://127.0.0.1:8000/print" method="POST">
+                <form action="/print" method="POST">
                      @csrf
                      <input type="submit" value="Скачать CSV" class="btn btn-success" id="download">
                 </form>
