@@ -1,7 +1,7 @@
 # Демо проект
 
 ## Установка
-1) Клонировать репозиторий git clone https://github.com/alexLobanov12/demo3
+1) Клонировать репозиторий git clone https://github.com/alexLobanov12/demo3.git
 2) Перейти в корневую директорию проекта 
 3) В корне проекта открыть консоль запустить команду composer i
 4) Сгенерировать символическую ссылку php artisan storage:link
